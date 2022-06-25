@@ -123,7 +123,7 @@ def command_ogretmen(update: Update, context):
         return
 
     if not game.is_ogretmen_time_left():
-        update.message.reply_text('Öğretmen olmak için {} saniye var⛔️\n\nResmi Kanal - @repohane 📣'.format(game.get_ogretmen_time_left()),
+        update.message.reply_text('Öğretmen olmak için {} saniye var⛔️\n\nResmi Kanal - @BozQurdMmcc 📣'.format(game.get_ogretmen_time_left()),
                                   reply_to_message_id=True)
         return
 
