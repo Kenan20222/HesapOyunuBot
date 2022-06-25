@@ -11,4 +11,4 @@
 
 _[@HusnuEhedov](https://t.me/husnuehedov)_
 
-_[Bu Repodan Yapıldı.](https://github.com/aykhan026/OyunBotTest)_
+_[Bu Repodan Yapıldı.](https://github.com/Kenan20222/HesapOyunuBot)_
